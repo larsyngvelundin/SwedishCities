@@ -1,7 +1,7 @@
 # Swedish Cities
 
 Had to gather this information for a project at work.
-List of cities/places is from an internal site.
+List of cities/places is from an internal list.
 
 I ran it against Wikipedia and Geohack to get population and coordinates.
 
@@ -11,3 +11,4 @@ Each city has the following:
 * lat - Latitude from Geohack
 * lon - Longitude from Geohack
 * time - Travel time by car in minutes to the biggest cities within the same county. Calculated with Google Maps API
+  * If time for a city is False, Google Maps didn't find a route between them
