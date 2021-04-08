@@ -1,6 +1,8 @@
 # Swedish Cities
 
 Had to gather this information for a project at work.
+It't not perfect, but something to work with.
+
 List of cities/places is from an internal list.
 
 I ran it against Wikipedia and Geohack to get population and coordinates.
