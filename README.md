@@ -1,7 +1,7 @@
 # Swedish Cities
 
 Had to gather this information for a project at work.
-It't not perfect, but something to work with.
+It's not perfect, but something to work with.
 
 List of cities/places is from an internal list.
 
